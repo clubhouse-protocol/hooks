@@ -26,7 +26,7 @@
     "@types/react": "16.9.2",
     "@types/uuid": "3.4.5",
     "jasmine": "3.4.0",
-    "nyc": "14.1.1",
+    "nyc": "15.1.0",
     "pouchdb-adapter-memory": "7.1.1",
     "rxdb": "8.3.0",
     "rxjs": "6.5.2",
