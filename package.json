@@ -28,7 +28,7 @@
     "jasmine": "3.4.0",
     "nyc": "14.1.1",
     "pouchdb-adapter-memory": "7.1.1",
-    "rxdb": "8.3.0",
+    "rxdb": "10.5.4",
     "rxjs": "6.5.2",
     "typescript": "3.5.3"
   }
